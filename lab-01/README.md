@@ -11,4 +11,6 @@ https://gitlab.com/jamerjo/crapapp-backend
 Underneath the repository title you can find a couple of buttons. You will see
 a `Bell` the `Star` button and the `Fork` button.
 
-Press the `Fork` button.
+Press the `Fork` button. Do this for the frontend as well.
+
+https://gitlab.com/jamerjo/crapapp-frontend
