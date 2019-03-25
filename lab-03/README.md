@@ -1,5 +1,7 @@
 # Lab 02 - Add environment variables to Gitlab
 
+Do this for both repositories. 
+
 We will add some environment variables to the Gitlab project. These are needed
 in the pipeline.
 

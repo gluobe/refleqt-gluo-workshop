@@ -1,5 +1,7 @@
 # Lab 01 - Open repository to the public
 
+Do this for both repositories. 
+
 In this lab we will put the repository visibilty on `public` this is needed
 because we are going to pull the created images to the cluster. When the repository
 would be private you would need a `kubernetes pull secret` but this is out of
@@ -15,4 +17,4 @@ permissions`. Use the `expand` tab to check out these settings.
 `dropdown box`.
 
 Scroll down a bit and click on `Save changes`. Your repository is now public and
-you will be able to pull images without a secret. 
+you will be able to pull images without a secret.

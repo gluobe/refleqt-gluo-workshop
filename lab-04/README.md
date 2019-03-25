@@ -1,5 +1,7 @@
 # Lab 03 - Create Gitlab pipeline
 
+Do this for both repositories.
+
 To automate the deployment of the application we need a pipeline in the Gitlab
 repository.
 
@@ -51,4 +53,7 @@ will see a few new ones.
 
 The variables we entered in `Gitlab` are used to authorize against the `kubernetes
 cluster` and the new variables are to tag the images. All pushed images in the
-registry wil get a tag. 
+registry wil get a tag.
+
+Now create the same file but instead of `backend` you need to use `frontend` in the
+pipeline code. 
