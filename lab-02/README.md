@@ -18,7 +18,7 @@ Use the `Expand` tab to check out these settings.
 
 Verify that you `Project visibility` is set to `Public`:
 
-![GitLab fork button](../images/lab02-visibility.png)
+![Project visbility](../images/lab02-visibility.png)
 
 Scroll down a bit and click on `Save changes`. Your repository is now public and
 you will be able to access you code with an SSH key and pull your images without 
