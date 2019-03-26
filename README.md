@@ -35,7 +35,7 @@ Be default both these environments should show the following page:
 * [Lab 03 - Add environment variables to Gitlab](lab-03)
 * [Lab 04 - CI/CD pipeline](lab-04)
 * [Lab 05 - Container registry](lab-05)
-* [Lab 06 - Testing](lab-05)
+* [Lab 06 - Testing](lab-06)
 
 ## People
 
