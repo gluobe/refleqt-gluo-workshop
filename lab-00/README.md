@@ -1,9 +1,12 @@
 # Lab 00 - Prerequisites
 
-A couple of requirements before we can start with the real labs.
+Before we can start with our actual labs we need to make sure that all the 
+prerequisites are dealt with.  For this workshop there is only one prerequisite, 
+you will need a GitLab account.
 
-## Task 1: Gitlab account
+## Task 1: GitLab account
 
-If you do not have a Gitlab account, please sign up for a free account:
+If you do not already have a GitLab account, please sign up for a free account 
+using the following link:
 
-https://gitlab.com/users/sign_in
+https://gitlab.com/users/sign_in#register-pane

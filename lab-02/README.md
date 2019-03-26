@@ -1,20 +1,25 @@
-# Lab 01 - Open repository to the public
+# Lab 02 - Project visibility
 
-Do this for both repositories. 
+In this lab we will change the visibility of our project to `Public`.  Keep in 
+mind that from a security point-of-view, it is commonly not best-practice to set 
+your project `Public` (unless you developing opensource software of course).
 
-In this lab we will put the repository visibilty on `public` this is needed
-because we are going to pull the created images to the cluster. When the repository
-would be private you would need a `kubernetes pull secret` but this is out of
-scope for the workshop.
+But because this is only a small workshop with no propretary code, setting the 
+projects visibility to `Public` will make our live a whole lot easier as we do 
+not have to deal will secrets to pull Docker images and/or use SSH keys to 
+access our code inside the repository.
 
-## Task 1: Open repository to the public
+## Task 1: Making the repository public
 
 Click on `Settings` on the left side of the project and click `General`. In
-`General settings` you can find the second tab `Visibility, project features,
-permissions`. Use the `expand` tab to check out these settings.
+this section you can find the second tab `Visibility, project features, permissions`. 
 
-`Project visibility` is on `Private` now but select the `Public` option from the
-`dropdown box`.
+Use the `Expand` tab to check out these settings.
+
+Verify that you `Project visibility` is set to `Public`:
+
+![GitLab fork button](../images/lab02-visibility.png)
 
 Scroll down a bit and click on `Save changes`. Your repository is now public and
-you will be able to pull images without a secret.
+you will be able to access you code with an SSH key and pull your images without 
+needing a secret.
