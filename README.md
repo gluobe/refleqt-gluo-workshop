@@ -5,7 +5,7 @@ continuously deploy an application, the Crap App.
 
 The pipeline will look like this:
 
-![GitLab pipeline](../images/00-pipeline.png)
+![GitLab pipeline](./images/00-pipeline.png)
 
 The pipeline consists of the following stages:
 
@@ -25,7 +25,7 @@ using the following URLs:
 
 Be default both these environments should show the following page:
 
-![GitLab pipeline](../images/00-crapapp-not-deployed.png)
+![GitLab pipeline](./images/00-crapapp-not-deployed.png)
 
 ## Labs
 

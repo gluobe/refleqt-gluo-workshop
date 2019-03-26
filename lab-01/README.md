@@ -11,7 +11,7 @@ experiment with changes without affecting the original project.
 To fork a repository, simply go the URL of the original repository.  For our 
 Crap App the URL is:
 
-https://gitlab.com/trescst/crapapp
+> https://gitlab.com/trescst/crapapp
 
 At the top of the page on the right hand side you should see a `Fork` button.
 
@@ -22,4 +22,4 @@ target for the fork.
 
 Your for should now be available at the following URL
 
-https://gitlab.com/<YOUR_GITLAB_USERNAME>/crapapp
+> [https://gitlab.com/<YOUR_GITLAB_USERNAME>/crapapp](https://gitlab.com/<YOUR_GITLAB_USERNAME>/crapapp)
